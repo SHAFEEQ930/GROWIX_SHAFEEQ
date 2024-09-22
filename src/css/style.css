@@ -1,0 +1,16 @@
+header {
+    width: 150vw;
+    height: 60px;
+    color: blue;
+    size: auto;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+header img{
+    width: 140px;   
+}
